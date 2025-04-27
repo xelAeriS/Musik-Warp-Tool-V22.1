@@ -4,7 +4,7 @@ Erweiterung: KI-Komposition, Echtzeit-Klangverarbeitung &amp; Algorithmische Mus
 
 Liebe Klangforscher, Komponisten und Tech-Enthusiasten,
 
-wir präsentieren stolz das Musik-Warp-Tool Warp11:
+wir präsentieren stolz das Musik-Warp-Tool Version: 22.1:
 Ein revolutionäres Open-Source-Toolkit für algorithmische Musikgenerierung, KI-gestützte Komposition und Echtzeit-Audio-Rendering.
 
 Warp11 verbindet mathematische Eleganz (Primzahlen, Fibonacci, Goldener Schnitt) mit modernster KI, um die Zukunft der Musikproduktion völlig neu zu denken.
@@ -35,7 +35,7 @@ Warp11 verbindet mathematische Eleganz (Primzahlen, Fibonacci, Goldener Schnitt)
 🎯 Weil Klangexperimente und algorithmische Komposition unsere Vorstellungskraft erweitern.
 📅 Roadmap:
 
-    Erste Open-Source-Version: Sommer 2025 (Beta)
+    Erste Open-Source-Version: Sommer 2025 (Beta) sofern es keine weiteren staatlichen Blockaden zu fdbank und QRPE Encryption gibt.
 
     GPU-Audio-Boost-Module (für Echtzeit Deep Learning Audio Processing)
 
